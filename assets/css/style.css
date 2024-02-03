@@ -51,7 +51,7 @@ header .my-nav {
   background-color: #111; }
 header .sub-01 {
   position: relative;
-  background: #fd1b5b; }
+  background: #a48c06; }
 header .nav-items {
   display: flex;
   flex-wrap: wrap;
@@ -80,7 +80,7 @@ header .nav-items {
       height: 0.125rem;
       transition: ease-in-out 0.1s;
       box-shadow: 0 2px 5px rgba(255, 255, 255, 0.6);
-      background: #fd1b5b;
+      background: #a48c06;
       position: relative; }
       header .nav-items .menu-toggle .menu-hamburger.active {
         background: rgba(0, 0, 0, 0);
@@ -96,7 +96,7 @@ header .nav-items {
         height: 0.125rem;
         transition: ease-in-out 0.1s;
         box-shadow: 0 2px 5px rgba(255, 255, 255, 0.6);
-        background: #fd1b5b;
+        background: #a48c06;
         transform: translatey(-0.625rem); }
       header .nav-items .menu-toggle .menu-hamburger::after {
         position: absolute;
@@ -105,7 +105,7 @@ header .nav-items {
         height: 0.125rem;
         transition: ease-in-out 0.1s;
         box-shadow: 0 2px 5px rgba(255, 255, 255, 0.6);
-        background: #fd1b5b;
+        background: #a48c06;
         transform: translatey(0.625rem); }
   header .nav-items .logo {
     width: 30%;
@@ -159,7 +159,7 @@ header .nav-items {
           padding: 0 1.25rem;
           font-weight: 700; }
           header .nav-items .menu-items .menu ul li a:hover {
-            color: #fd1b5b; }
+            color: #a48c06; }
           @media screen and (max-width: 767.98px) {
             header .nav-items .menu-items .menu ul li a {
               padding: 0rem; } }
@@ -240,8 +240,8 @@ header .nav-items {
           border: solid 1px #fff; }
           .slider .carousel-inner .carousel-item .carousel-caption .button-01 ul li:nth-child(1) {
             margin-right: 20px;
-            background: #fd1b5b;
-            border: 1px solid #fd1b5b;
+            background: #a48c06;
+            border: 1px solid #a48c06;
             color: #fff; }
           .slider .carousel-inner .carousel-item .carousel-caption .button-01 ul li a {
             font-size: 0.9rem;
@@ -259,7 +259,7 @@ header .nav-items {
     display: block;
     padding: 20px 15px;
     box-shadow: 0px 5px 24px 6px rgba(0, 0, 0, 0.06);
-    border-bottom: #fd1b5b 3px solid;
+    border-bottom: #a48c06 3px solid;
     text-align: center; }
     .bg-01 .main-box .content {
       display: inline-block;
@@ -267,7 +267,7 @@ header .nav-items {
       position: relative; }
       .bg-01 .main-box .content i {
         font-size: 30px;
-        color: #fd1b5b;
+        color: #a48c06;
         display: inline-block;
         margin: 10px 0px; }
       .bg-01 .main-box .content h3 {
@@ -301,7 +301,7 @@ header .nav-items {
       left: 0;
       top: 0;
       height: 3px;
-      background-color: #fd1b5b; }
+      background-color: #a48c06; }
 
 /*=================about us =================*/
 ._ab_er_we {
@@ -334,7 +334,7 @@ header .nav-items {
 
 ._oi_yt_we .accordion .card {
   margin: 10px 0px;
-  border: 1px solid #fd1b5b;
+  border: 1px solid #a48c06;
   border-radius: 0px;
   background: transparent; }
 
@@ -356,14 +356,14 @@ header .nav-items {
 .btn-link:hover,
 .btn-link:active,
 .btn-link:focus {
-  color: #fd1b5b;
+  color: #a48c06;
   text-decoration: none; }
 
 .text-left::before {
   position: absolute;
   content: "\f067";
   font-size: 16px;
-  color: #fd1b5b;
+  color: #a48c06;
   font-family: "Font Awesome 5 Pro";
   right: 30px; }
 
@@ -398,7 +398,7 @@ header .nav-items {
           justify-content: center;
           position: absolute;
           left: 0;
-          background-color: #fd1b5b;
+          background-color: #a48c06;
           color: #fff;
           font-size: 20px;
           border-radius: 50%; }
@@ -474,7 +474,7 @@ header .nav-items {
           margin: 5px 0px; }
           .bg-04 .blog-main-card .blog-sub .blog-content-section .blog-admin ol li {
             display: inline-block;
-            color: #fd1b5b;
+            color: #8c7105;
             font-size: 15px;
             margin: 0 5px 0 0; }
             .bg-04 .blog-main-card .blog-sub .blog-content-section .blog-admin ol li i {
@@ -602,7 +602,7 @@ header .nav-items {
             transition: 0.6s;
             height: 30px;
             width: 30px;
-            background: #fd1b5b;
+            background: #a48c06;
             line-height: 30px;
             text-align: center;
             padding: 0px;
@@ -610,7 +610,7 @@ header .nav-items {
             font-size: 16px;
             margin-right: 5px; }
             .bg-07 .main-team-card .team-setup .team-items .team-user-social ol li:hover {
-              color: #fd1b5b;
+              color: #a48c06;
               transform: translateX(-5px); }
 
 /* ================================ Footer CSS =============================== */
@@ -628,7 +628,7 @@ footer {
     color: #84878a;
     text-align: center; }
     footer .copy-right p a {
-      color: #fd1b5b;
+      color: #a48c06;
       padding-left: 10px;
       font-weight: bold; }
   footer .footer-content {
@@ -645,7 +645,7 @@ footer {
       display: inline-block;
       height: 30px;
       width: 30px;
-      background: #fd1b5b;
+      background: #a48c06;
       color: #fff;
       line-height: 30px;
       text-align: center;
@@ -659,7 +659,7 @@ footer {
         font-size: 16px; }
         footer .footer-content ol li a i {
           padding-right: 10px;
-          color: #fd1b5b; }
+          color: #a48c06; }
     footer .footer-content h2 {
       font-size: 20px;
       position: relative;
@@ -677,7 +677,7 @@ footer {
         width: 40px;
         line-height: 40px;
         color: #fff;
-        background: #fd1b5b;
+        background: #a48c06;
         text-align: center;
         top: 0;
         right: 0; }
@@ -715,7 +715,7 @@ footer {
           .bg-0-b .main-card-contact .sup-card-contact .contact-title h2::before {
             position: absolute;
             content: "";
-            background: #fd1b5b;
+            background: #a48c06;
             width: 100%;
             height: 3px;
             bottom: 0; }
@@ -726,7 +726,7 @@ footer {
           font-size: 16px;
           font-weight: 600; }
           .bg-0-b .main-card-contact .sup-card-contact .contact-title ol li i {
-            color: #fd1b5b;
+            color: #a48c06;
             padding-right: 15px; }
       .bg-0-b .main-card-contact .sup-card-contact .head-content {
         position: relative;
@@ -741,7 +741,7 @@ footer {
           .bg-0-b .main-card-contact .sup-card-contact .head-content h2::before {
             position: absolute;
             content: "";
-            background: #fd1b5b;
+            background: #a48c06;
             width: 100%;
             height: 3px;
             bottom: 0; }
@@ -780,7 +780,7 @@ footer {
               top: 0px;
               height: 45px;
               width: 45px;
-              background: #fd1b5b;
+              background: #a48c06;
               text-align: center;
               line-height: 45px;
               color: #fff;
@@ -793,7 +793,7 @@ footer {
                 position: relative;
                 top: 4px;
                 left: 5px;
-                color: #fd1b5b; }
+                color: #a48c06; }
           .bg-0-b .main-card-contact .sup-card-contact-0a .dived .form-group .form-control {
             padding: 10px 15px;
             margin: 30px 0px;
@@ -802,7 +802,7 @@ footer {
 
 .abt-01 {
   padding: 3.125rem 0;
-  background: #fd1b5b;
+  background: #a48c06;
   position: relative;
   overflow: hidden;
   z-index: 9; }
